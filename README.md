@@ -19,6 +19,7 @@ TAB
 - Boas vindas no Bootcamp da Cognizant ... ok
 - Mentoria com  Adriana Silva, foi uma LIVE ...ok
 - Lógica da programação essencial... ok
-- Aprenda o que são estrutura de dados e algoritmosalgoritmo... ok
+- Aprenda o que são estrutura de dados e algoritimo ...ok
 - Introdução ao GIT e ao GITHUB ... ok 
 - Criando o seu primeiro Repositório  no GITHUB ... em andamento
+
